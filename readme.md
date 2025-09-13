@@ -22,7 +22,7 @@ The Empathy Engine is an intelligent Text-to-Speech (TTS) system that dynamicall
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/avi12299/empathy-engine.git
 cd empathy-engine
 ```
 
